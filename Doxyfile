@@ -15,7 +15,7 @@ OPTIMIZE_OUTPUT_JAVA   = YES
 PROJECT_NAME           = "Jeu-De-La-Vie"
 PROJECT_NUMBER         =
 PROJECT_BRIEF          =
-PROJECT_LOGO           = "./favicon-16x16.png"
+PROJECT_LOGO           =
 
 # Output directory
 OUTPUT_DIRECTORY       = ./doc
