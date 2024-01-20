@@ -3,6 +3,14 @@
 # Set the USE_MDFILE_AS_MAINPAGE tag to specify a markdown file as the main page.
 USE_MDFILE_AS_MAINPAGE = README.md
 
+# The MARKDOWN_SUPPORT tag can be used to enable/disable markdown support in
+# comments if the HAVE_LIBCLANG tag is set to YES.
+MARKDOWN_SUPPORT       = YES
+
+# If the OPTIMIZE_OUTPUT_JAVA tag is set to YES (the default) Doxygen will
+# optimize the Java code for Javadoc.
+OPTIMIZE_OUTPUT_JAVA   = YES
+
 # Project related configuration options
 PROJECT_NAME           = "Jeu-De-La-Vie"
 PROJECT_NUMBER         =
