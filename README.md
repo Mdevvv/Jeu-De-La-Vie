@@ -2,7 +2,8 @@
 
 jeu de la vie
 
-
+##### Arguments :
+[documentation link](https://septmg.fr/jeu-de-la-vie) 
 
 ##### Arguments :
 
