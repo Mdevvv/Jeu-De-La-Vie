@@ -1,5 +1,8 @@
 # Doxyfile 1.9.3
 
+# Set the USE_MDFILE_AS_MAINPAGE tag to specify a markdown file as the main page.
+USE_MDFILE_AS_MAINPAGE = README.md
+
 # Project related configuration options
 PROJECT_NAME           = "Jeu-De-La-Vie"
 PROJECT_NUMBER         =
