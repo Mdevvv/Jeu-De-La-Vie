@@ -6,19 +6,19 @@
         {
             "label": "verify",
             "type": "shell",
-            "command": "mvn -B verify",
+            "command": "mvn verify",
             "group": "build"
         },
         {
             "label": "test",
             "type": "shell",
-            "command": "mvn -B test",
+            "command": "mvn test",
             "group": "test"
         },
         {
             "label": "compile",
             "type": "shell",
-            "command": "mvn -B compile",
+            "command": "mvn compile",
             "group": "build"
         },
         {
