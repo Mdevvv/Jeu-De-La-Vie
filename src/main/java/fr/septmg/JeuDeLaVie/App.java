@@ -18,7 +18,9 @@ public class App
 
      /**
      * @brief Fonction principale exécutée au démarrage de l'application.
-     * @param args Les arguments de la ligne de commande (non utilisés dans cet exemple).
+     * @param args [in] Les arguments de la ligne de commande (non utilisés dans cet exemple).
+     * @details Lancement de l'application
+     * @pre ars[0] > 0 && args[0] <= 500 && args[1] > 0 && args[1] <= 500 && args[2] > 0
      */
     public static void main(String[] args)
     {
